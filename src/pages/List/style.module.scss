@@ -1,0 +1,9 @@
+.index {
+  border: 1px solid red;
+  :global {
+    .text {
+      color: red;
+      font-size: 1rem;
+    }
+  }
+}
